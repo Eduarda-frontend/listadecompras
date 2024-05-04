@@ -2,6 +2,10 @@
 
 Neste arquivo encontram-se modelos de códigos que serão utilizados no decorrer do curso. 
 
+ - O usuário consegue adicionar um item a lista
+ - O usuário consegue remover esse item
+ - A lista fica salva na memória interna
+
 Código modelo da li "Comprados":
 
     <li class="item-compra is-flex is-justify-content-space-between" data-value="">
